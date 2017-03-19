@@ -1,0 +1,8 @@
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\obj\Debug\ConsoleMergeSort.csprojResolveAssemblyReference.cache
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\bin\Debug\ConsoleMergeSort.exe.config
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\bin\Debug\ConsoleMergeSort.exe
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\bin\Debug\ConsoleMergeSort.pdb
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\bin\Debug\MergeSort.dll
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\bin\Debug\MergeSort.pdb
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\obj\Debug\ConsoleMergeSort.exe
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\ConsoleMergeSort\obj\Debug\ConsoleMergeSort.pdb

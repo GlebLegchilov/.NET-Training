@@ -1,0 +1,4 @@
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\MergeSort\bin\Release\MergeSort.dll
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\MergeSort\bin\Release\MergeSort.pdb
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\MergeSort\obj\Release\MergeSort.dll
+D:\Учёба\EPAM\day2\NET.S.2017.01.Legchilov.02\MergeSort\obj\Release\MergeSort.pdb
