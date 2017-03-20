@@ -1,8 +1,10 @@
 ﻿using System;
 using System.Linq;
 
-namespace Task1
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("Task1Test")]
+namespace  Task1
 {
+
     /// <summary>
     /// Class sort unsorted array
     /// </summary>
@@ -28,7 +30,7 @@ namespace Task1
         /// </summary>
         /// <param name="array">Unsorted array</param>
         /// <returns>Sorted array</returns>
-        static private Int32[] SortMaster(Int32[] array)
+        static internal Int32[] SortMaster(Int32[] array)
         {
             if (array.Length == 1)
                 return array;
